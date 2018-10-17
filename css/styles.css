@@ -1,0 +1,70 @@
+body{
+	background-color: #FFFFFF;
+}
+
+select{
+	border-radius: 5px;
+	background-color: #1A0315;
+	color: #F5F5F5;
+}
+
+.navbar{
+	background-color: #88D317;
+	color: #F5F5F5;
+}
+
+.navbar-nav>.active>a {
+    color: #555;
+    background-color: #1A0315;
+}
+
+.navbar-nav>.active>a:focus, .navbar-nav>.active>a:hover {
+    color: #FFFFFF;
+    background-color: #1A0315;
+}
+
+.jumbotron{
+	background-color: #6E3667;
+	color: #F5F5F5;
+    display: table;
+}
+
+.green-bg {
+	background-color: #6E3667;
+	color: #F5F5F5;
+	border-radius: 25px;
+	margin: 5px;
+}
+
+.selectpicker{
+	border-radius: 5px;
+	margin: 3px;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #88D317;
+    color: #F5F5F5;
+    text-align: center;
+}
+
+#chart-container{
+    padding-left: 20px;
+    padding-right: 20px;
+	position: relative;
+	width: 100%;
+	align-content: center;
+}
+
+input{
+	border-radius: 5px;
+	border-color: #03608D;
+}
+
+.card {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
